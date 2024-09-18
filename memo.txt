@@ -1,0 +1,2 @@
+https://zenn.dev/axoloto210/articles/9dc94b3cdfeae8
+この人から引用するがどうやらドメイン読み込み方法のこれが非推奨みたいなので後で修正しようと思います

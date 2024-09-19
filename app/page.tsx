@@ -11,7 +11,6 @@ const Test = () => {
 
 
   const [hoge, setHoge] = useState<any>([])
-  const [foo, setFoo] = useState<any>([])
 
 
   useEffect(() => {

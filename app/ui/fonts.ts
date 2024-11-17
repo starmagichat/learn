@@ -1,8 +1,8 @@
 // import { Roboto } from 'next/font/google';
-import { Noto_Sans } from 'next/font/google';
+import {Kosugi_Maru } from 'next/font/google';
 
-export const notoSans = Noto_Sans({
-  weight: ['400', '700'],
+export const kosugiMaru = Kosugi_Maru({
+  weight: ['400'],
   subsets: ['latin'],
   display: 'swap',
 });
